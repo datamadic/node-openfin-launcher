@@ -10,3 +10,11 @@ describe('openfin-launcher', function() {
         });
     });
 });
+
+/*
+running from command line to test... 
+
+openfinLauncher = require('./index');
+openfinLauncher.launchOpenFin({configPath: 'http://local:8080/app.json', rvmPath: './OpenFinRVM.exe'});
+
+ */
